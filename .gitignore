@@ -1,0 +1,19 @@
+# Flutter/Dart related
+.dart_tool/
+.build/
+pubspec.lock
+
+# Android
+android/.gradle/
+android/app/debug/
+android/app/release/
+
+# iOS
+ios/Flutter/.pub-cache/
+
+# IDE directories
+.idea/
+.vscode/
+
+# Generated files
+build/
