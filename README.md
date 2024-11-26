@@ -16,3 +16,4 @@ Login & Signup: Customizable forms with email and password input fields.
 Styling: The app uses simple and clean design elements with a focus on user-friendly navigation.
 Responsive Layout: The layout is responsive and works well on different screen sizes.
 # Screenshot:
+<img width="183" alt="task43" src="https://github.com/user-attachments/assets/5ddcc198-02c1-4517-a814-769dc7d8e2b9">   ![Uploading task42.png…]()
